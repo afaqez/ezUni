@@ -1,183 +1,0 @@
-Day,08:00-08:50-Mon,09:00-09:50,10:00-10:50,11:00-11:50,12:00-12:50,13:20-14:10,14:20-15:10,15:20-16:10,16:20-17:10
-Monday,CS1133 (S1),HMCS1002 (S1),,CS2143 (S1),CS2143 (S1),MTCS3063 (S1),ACCS3003 (S1),CS4333 (S1),CS4333 (S1)
-Monday,Introduction to Programming,Pakistan Studies,,Data Structures,Data Structures,Probability and Statistics,Financial Accounting,"Introduction to DataWarehousing","Introduction to DataWarehousing"
-Monday,HMCS1002 (S2),CS1133 (S2),CS1133 (S2),HMCS2033 (S3),HMCS2033 (S3),MTCS3063 (S3),CS3273 (S1),CS3833 (S1),CS3833 (S1)
-Monday,Pakistan Studies,Introduction to Programming,Introduction to Programming,Technical Report Writing,Technical Report Writing,Probability and Statistics,Human Computer Interaction,"Theory of ProgrammingLanguages","Theory of ProgrammingLanguages"
-Monday,CS1133 (S3),HMCS1013 (S3),HMCS1013 (S3),MTCS3063 (S2),CS2143 (S2),CS4813 (S2),CS4813 (S2),CS2523 (S3),CS2523 (S3)
-Monday,Intorduction to Programming,English-I,English-I,Probability and Statistics,Data Structures,Artifical Intelligence,Artifical Intelligence,"Computer Organization &Assembly Language","Computer Organization &Assembly Language"
-Monday,CS1143 (S1),HMCS1012 (S1),,MTCS1053 (S2),CS4813 (S3),CS3213 (S1),CS2523 (S2),CS2523 (S1),CS2523 (S1)
-Monday,Object Oriented Programming,Islamic Studies/Ethics,,Multi-variate Calculus,Artifical Intelligence,"Object Oriented Analysis andDesign","Computer Organization &Assembly Language","Computer Organization &Assembly Language","Computer Organization &Assembly Language"
-Monday,HMCS1012 (S2),CS1143 (S2),CS1143 (S2),CS3833 (S2),CS3773 (S2),CS3773 (S2),CS3713 (S1),CS3163 (S2),CS3163 (S2)
-Monday,Islamic Studies/Ethics,Object Oriented Programming,Object Oriented Programming,"Theory of ProgrammingLanguages",Computer Comm. and Networks,"Computer Comm. andNetworks","Introduction to InformationSecurity and Forensics","Design and Analysis ofAlgorithms","Design and Analysis ofAlgorithms"
-Monday,PHCS1013 (S4),MTCS1013 (S4),MTCS1013 (S4),CS3413 (S1),CS3413 (S1),MTCS1053 (S1),CS3163 (S3),CS3833 (S3),CS3833 (S3)
-Monday,Applied Physics,Calculus and Analytical Geometry,Calculus and Analytical Geometry,Operating Systems,Operating Systems,Multi-variate Calculus,"Design and Analysis ofAlgorithms","Theory of ProgrammingLanguages","Theory of ProgrammingLanguages"
-Monday,,,HMCS2013 (S3),HMCS2013 (S3),,CS3213 (S3),ACCS3003 (S3),ACCS3003 (S2),ACCS3003 (S2)
-Monday,,,Professional Ethics and legal Issues,"Professional Ethics and legalIssues",,"Object Oriented Analysis andDesign",Financial Accounting,Financial Accounting,Financial Accounting
-Monday,,,CS4623 (S2),CS4623 (S2),CS4623 (S3),,HMCS1033 (S1),HMCS1033 (S1),CS4873 (S1)
-Monday,,,Compiler Construction,Compiler Construction,Compiler Construction,,"Personal Management andGrooming","Personal Management andGrooming",Malware Analysis
-Monday,CS2141 (S3),CS2141 (S3),CS2141 (S3),,,,CS3771 (S2),CS3771 (S2),CS3771 (S2)
-Monday,Data Structures Lab,Data Structures Lab,Data Structures Lab,,,,"Computer Comm. AndNetworks",Computer Comm. And Networks,Computer Comm. And Networks
-Monday,,,,CS2521 (S4),CS2521 (S4),CS2521 (S4),CS2311 (S3),CS2311 (S3),CS2311 (S3)
-Monday,,,,"Computer Organization &Assembly Language Lab","Computer Organization &Assembly Language Lab","Computer Organization &Assembly Language Lab","Introduction to DatabaseSystems Lab","Introduction to DatabaseSystems Lab","Introduction to DatabaseSystems Lab"
-Monday,,,,CS1141 (S1),CS1141 (S1),CS1141 (S1),,,
-Monday,,,,"Object Oriented ProgrammingLab","Object Oriented ProgrammingLab","Object OrientedProgramming Lab",,,
-Monday,CS2141 (S4),CS2141 (S4),CS2141 (S4),,,,,,
-Monday,Data Structures Lab,Data Structures Lab,Data Structures Lab,,,,,,
-Monday,,,,CS1141 (S3),CS1141 (S3),CS1141 (S3),,,
-Monday,,,,"Object Oriented ProgrammingLab","Object Oriented ProgrammingLab","Object OrientedProgramming Lab",,,
-Monday,CS2511 (S1),CS2511 (S1),CS2511 (S1),,,,CS2511 (S3),CS2511 (S3),CS2511 (S3)
-Monday,Digital Logic Design,Digital Logic Design,Digital Logic Design,,,,Digital Logic Design,Digital Logic Design,Digital Logic Design
-,,,,,,,,,
-,,,,,,,,,
-Tuesday,PHCS1013 (S2),MTCS1013 (S2),MTCS1013 (S2),CS2513 (S2),CS2143 (S3),CS2143 (S3),CS3163 (S1),CS3613 (S3),CS3613 (S3)
-Tuesday,Applied Physics,Calculus and Analytical Geometry,Calculus and Analytical Geometry,Digital Logic Design,Data Structures,Data Structures,"Design and Analysis ofAlgorithms","Theory of Automata & FormalLanguage","Theory of Automata & FormalLanguage"
-Tuesday,HMCS1002 (S3),PHCS1013 (S3),PHCS1013 (S3),CS2223 (S1),CS2513 (S1),CS2513 (S1),CS3613 (S2),CS3613 (S1),CS3613 (S1)
-Tuesday,Pakistan Studies,Applied Physics,Applied Physics,Software Engineering-I,Digital Logic Design,Digital Logic Design,Theory of Automata &,Theory of Automata & Formal,Theory of Automata & Formal
-Tuesday,HMCS1013 (S1),HMCS1013 (S1),PHCS1013 (S1),,CS2223 (S2),CS2223 (S2),,CS3713 (S2),CS3713 (S2)
-Tuesday,English- I,English- I,Applied Physics,,Software Engineering-I,Software Engineering-I,,"Introduction to InformationSecurity and Forensics","Introduction to InformationSecurity and Forensics"
-Tuesday,HMCS1013 (S4),HMCS1002 (S4),CS3833 (S1),,HMCS2033 (S1),HMCS2033 (S1),CS3713 (S3),CS3433 (S3),CS3433 (S3)
-Tuesday,English-I,Pakistan Studies,Theory of Programming Languages,,Technical Report Writing,Technical Report Writing,"Introduction to InformationSecurity and Forensics","Parallel and DistributedComputing","Parallel and DistributedComputing"
-Tuesday,CS2053 (S2),CS2053 (S2),CS2053 (S1),,HMCS2063 (S1),HMCS2063 (S1),HMCS2243 (S1),HMCS2243 (S2),HMCS2243 (S2)
-Tuesday,Discrete Structures,Discrete Structures,Discrete Structures,,Introduction to Sociology,Introduction to Sociology,English Literature-I,English Literature-I,English Literature-I
-Tuesday,HMCS1023 (S1),HMCS1023 (S1),HMCS1023 (S2),HMCS2063 (S2),HMCS2033 (S2),HMCS2033 (S2),HMCS2243 (S3),CS3433 (S1),CS3433 (S1)
-Tuesday,English- II,English- II,English- II,Introduction to Sociology,Technical Report Writing,Technical Report Writing,English Literature-I,"Parallel and DistributedComputing","Parallel and DistributedComputing"
-Tuesday,Booked with EE,,CS3833 (S3),CS3433 (S2),CS4813 (S1),MGCS4003 (S1),MGCS4003 (S1),,
-Tuesday,,,,"Theory of ProgrammingLanguages","Parallel and DistributedComputing",Artifical Intelligence,Entrepreneurship and Innovation,Entrepreneurship and Innovation,
-Tuesday,,,,HMCS2013 (S2),HMCS2013 (S2),CS3273 (S2),CS4623 (S1),CS3213 (S2),CS3213 (S2)
-Tuesday,,,,"Professional Ethics and legalIssues","Professional Ethics and legalIssues",Human Computer Interaction,Compiler Construction,"Object Oriented  Analysis andDesign","Object Oriented  Analysis andDesign"
-Tuesday,,,,,,,,MGCS4003 (S3),MGCS4003 (S3)
-Tuesday,,,,,,,,Entrepreneurship and Innovation,Entrepreneurship and Innovation
-Tuesday,,,,CS2521 (S3),CS2521 (S3),CS2521 (S3),,,
-Tuesday,,,,"Computer Organization &Assembly Language Lab","Computer Organization &Assembly Language Lab","Computer Organization &Assembly Language Lab",,,
-Tuesday,CS2141 (S1),CS2141  (S1),CS2141 (S1),CS1131 (S5),CS1131 (S5),CS1131 (S5),,,
-Tuesday,Data Structures Lab,Data Structures Lab,Data Structures Lab,"Introduction to ProgrammingLab",Introduction to Programming Lab,"Introduction to ProgrammingLab",,,
-Tuesday,CS2311 (S2),CS2311 (S2),CS2311 (S2),CS4811 (S1),CS4811 (S1),CS4811 (S1),,,
-Tuesday,"Introduction to Database SystemsLab",Introduction to Database Systems Lab,Introduction to Database Systems Lab,Artifical Intelligence Lab,Artifical Intelligence Lab,Artifical Intelligence Lab,,,
-,,,,,,,,,
-Wednesday,MTCS1013 (S1),PHCS1013 (S1) ,PHCS1013 (S1),CS2143 (S1),MTCS3063 (S3),MTCS3063 (S3),CS4613 (S2),CS4613 (S2),CS2523 (S3)
-Wednesday,,,,,,,,,Computer Organization &
-Wednesday,Calculus and Analytical Geometry,Applied Physics ,Applied Physics,Data Structures,Probability and Statistics,Probability and Statistics,Machine Learning,Machine Learning,
-Wednesday,,,,,,,,,Assembly Language
-Wednesday,HMCS1002 (S2),HMCS1013 (S2),,HMCS2033 (S2),MTCS3063 (S1),MTCS3063 (S1),CS2523 (S2),CS2523 (S2),CS2523 (S1)
-Wednesday,,,,,,,Computer Organization &,Computer Organization &,Computer Organization &
-Wednesday,Pakistan Studies,English-I,,Technical Report Writing,Probability and Statistics,Probability and Statistics,,,
-Wednesday,,,,,,,Assembly Language,Assembly Language,Assembly Language
-Wednesday,MTCS1013 (S3),CS1133 (S3) ,CS1133 (S3),,CS3833 (S2),CS3833 (S2),CS3283 (S1),CS3283 (S1),CS3283 (S2)
-Wednesday,,,,,Theory of Programming,Theory of Programming,,,
-Wednesday,Calculus and Analytical Geometry,Intorduction to Programming ,Intorduction to Programming,,,,Graph Algorithms,Graph Algorithms,Graph Algorithms
-Wednesday,,,,,Languages,Languages,,,
-Wednesday,CS1133 (S4),CS1133 (S4) ,MTCS1013 (S4),CS2143 (S3),CS2143 (S2),CS2143 (S2),CS3283 (S3),CS3283 (S3),CS4613 (S3)
-Wednesday,Introduction to Programming,Introduction to Programming ,Calculus and Analytical Geometry,Data Structures,Data Structures,Data Structures,Graph Algorithms,Graph Algorithms,Machine Learning
-Wednesday,HMCS1012 (S1),MTCS1033 (S1) ,MTCS1033 (S1),CS3773 (S2),CS3773 (S1),CS3773 (S1),CS3213 (S1),CS3213 (S1),CS4613 (S1)
-Wednesday,,,,,,Computer Comm. and,Object Oriented Analysis and,Object Oriented Analysis and,
-Wednesday,Islamic Studies/Ethics,Linear Algebra ,Linear Algebra,Computer Comm. and Networks,Computer Comm. and Networks,,,,Machine Learning
-Wednesday,,,,,,Networks,Design,Design,
-Wednesday,MTCS1033 (S2),HMCS1012 (S2),,CS3413 (S1),CS3413 (S2),CS3413 (S2),HMCS2013 (S1),CS3273 (S1),CS3273 (S1)
-Wednesday,,,,,,,Professional Ethics and Legal,,
-Wednesday,Linear Algebra,Islamic Studies/Ethics,,Operating Systems,Operating Systems,Operating Systems,,Human Computer Interaction,Human Computer Interaction
-Wednesday,,,,,,,Issues,,
-Wednesday,,,,,MGCS4003 (S3),CS4333 (S3),CS4333 (S3),,
-Wednesday,,Booked with EE,,,,,,,
-Wednesday,,,,,,Introduction to Data,Introduction to Data,,
-Wednesday,,,,,Entrepreneurship and Innovation,,,,
-Wednesday,,,,,,Warehousing,Warehousing,,
-Wednesday,,,,,CS4333 (S2),MGCS4003 (S2),MGCS4003 (S2),CS3273 (S3),CS3273 (S3)
-Wednesday,,,,,,Entrepreneurship and,Entrepreneurship and,,
-Wednesday,,,,,Introduction to Data Warehousing,,,Human Computer Interaction,Human Computer Interaction
-Wednesday,,,,,,Innovation,Innovation,,
-Wednesday,,,,,,HMCS1033 (S1),,CS4873 (S1),CS4873 (S1)
-Wednesday,,PSY,,,,,,,
-Wednesday,,,,,,Personal Management and,,,
-Wednesday,,,,,,,,Malware Analysis,Malware Analysis
-Wednesday,,,,,,Grooming,,,
-Wednesday,,,,CS2521 (S1),CS2521 (S1),CS2521 (S1),,,
-Wednesday,,,,Computer Organization &,Computer Organization &,Computer Organization &,,,
-Wednesday,,,,Assembly Language Lab,Assembly Language Lab,Assembly Language Lab,,,
-Wednesday,CS2311 (S1),CS2311 (S1) ,CS2311 (S1),CS2521 (S2),CS2521 (S2),CS2521 (S2),CS3771 (S1),CS3771 (S1),CS3771 (S1)
-Wednesday,Introduction to Database Systems,,,Computer Organization &,Computer Organization &,Computer Organization &,,,
-Wednesday,,Introduction to Database Systems Lab,Introduction to Database Systems Lab,,,,Computer  Networks Lab,Computer  Networks Lab,Computer  Networks Lab
-Wednesday,Lab,,,Assembly Language Lab,Assembly Language Lab,Assembly Language Lab,,,
-Wednesday,,,,CS1131 (S4),CS1131 (S4),CS1131 (S4),,,
-Wednesday,,,,Introduction to Programming,,Introduction to Programming,,,
-Wednesday,,,,,Introduction to Programming Lab,,,,
-Wednesday,,,,Lab,,Lab,,,
-Wednesday,CS2141 (S2),CS2141 (S2),CS2141 (S2),CS4811 (S2),CS4811 (S2),CS4811 (S2),CS3411 (S2),CS3411 (S2),CS3411 (S2)
-Wednesday,Data Structures Lab,Data Structures Lab ,Data Structures Lab,Artifical Intelligence Lab,Artifical Intelligence Lab,Artifical Intelligence Lab,Operating Systems Lab,Operating Systems Lab,Operating Systems Lab
-Wednesday,,,,CS1141 (S2),CS1141 (S2),CS1141 (S2),,,
-Wednesday,,,,Object Oriented Programming Lab,Object Oriented Programming Lab,Object Oriented Programming Lab,,,
-,,,,,,,,,
-Thursday,HMCS1013 (S1),CS1133 (S1),CS1133 (S1),CS2313 (S1),HMCS2033 (S1),HMCS2063 (S2),HMCS2063 (S2),ACCS3003 (S1),ACCS3003 (S1)
-Thursday,,,,,,,,,
-Thursday,English-I,Introduction to Programming,Introduction to Programming,Introduction to Databse Systems,Technical Report Writing,Introduction to Sociology,Introduction to Sociology,Financial Accounting,Financial Accounting
-Thursday,,,,,,,,,
-Thursday,PHCS1013 (S3),MTCS1013 (S3),MTCS1013 (S3),CS2513 (S1),MTCS1053 (S1),MTCS1053 (S1),HMCS2243 (S1),HMCS2243 (S1),HMCS2243 (S2)
-Thursday,Applied Physics,Calculus and Analytical Geometry,Calculus and Analytical Geometry,Digital Logic Design,Multi-variate Calculus,Multi-variate Calculus,English Literature-I,English Literature-I,English Literature-I
-Thursday,CS1133 (S2),PHCS1013 (S2),PHCS1013 (S2),CS2223 (S2),CS2513 (S2),CS2513 (S2),CS3163 (S3),CS3163 (S3),
-Thursday,,,,,,,Design and Analysis of,Design and Analysis of,
-Thursday,Introduction to Programming,Applied Physics,Applied Physics,Software Engineering-I,Digital Logic Design,Digital Logic Design,,,
-Thursday,,,,,,,Algorithms,Algorithms,
-Thursday,HMCS1013 (S4),HMCS1013 (S4),CS1133 (S4),CS3163 (S1),CS3163 (S1),,CS3713 (S2),CS3713 (S1),CS3713 (S1)
-Thursday,,,,Design and Analysis of,,,Introduction to Information,Introduction to Information,Introduction to Information
-Thursday,English-I,English-I,Introduction to Programming,,Design and Analysis of Algorithms,,,,
-Thursday,,,,Algorithms,,,Security and Forensics,Security and Forensics,Security and Forensics
-Thursday,CS1143 (S2),HMCS1023 (S2),HMCS1023 (S2),HMCS2063 (S1),CS2313 (S2),CS2313 (S2),HMCS2243 (S3),HMCS2243 (S3),
-Thursday,,,,,,Introduction to Database,,,
-Thursday,Object Oriented Programming,English-II,English-II,Introduction to Sociology,Introduction to Database Systems,,English Literature-I,English Literature-I,
-Thursday,,,,,,Systems,,,
-Thursday,HMCS1023 (S1),CS1143 (S1),CS1143 (S1),CS4623 (S2),CS2313 (S3),CS2313 (S3),CS3433 (S3),CS4623 (S1),CS4623 (S1)
-Thursday,,,,,,Introduction to Database,Parallel and Distributed,,
-Thursday,English-II,Object Oriented Programming,Object Oriented Programming,Compiler Construction,Introduction to Database Systems,,,Compiler Construction,Compiler Construction
-Thursday,,,,,,Systems,Computing,,
-Thursday,,,,CS4613 (S3),CS4613 (S3),CS3433 (S2),CS3433 (S2),CS3433 (S1),CS3163 (S2)
-Thursday,,Booked with EE,,,,,,,
-Thursday,,,,,,Parallel and Distributed,Parallel and Distributed,Parallel and Distributed,Design and Analysis of
-Thursday,,,,Machine Learning,Machine Learning,,,,
-Thursday,,,,,,Computing,Computing,Computing,Algorithms
-Thursday,,,,,CS4333 (S2),CS4333 (S2),CS4333 (S3),CS4623 (S3),CS4623 (S3)
-Thursday,,,BI,,,,,,
-Thursday,,,,,,Introduction to Data,Introduction to Data,,
-Thursday,,,,,Introduction to Data Warehousing,,,Compiler Construction,Compiler Construction
-Thursday,,,,,,Warehousing,Warehousing,,
-Thursday,,,,,,,,ACCS3003 (S3),ACCS3003 (S3)
-Thursday,,,,,,,,Financial Accounting,Financial Accounting
-Thursday,,,,CS4813 (S1),CS4813 (S1),,CS4333 (S1),,
-Thursday,,,,,,,Introduction to Data,,
-Thursday,,,,Artifical Intelligence,Artifical Intelligence,,,,
-Thursday,,,,,,,Warehousing,,
-Thursday,CS3411 (S1),CS3411 (S1),CS3411 (S1),CS1131 (S1),CS1131 (S1),CS1131 (S1),,,
-Thursday,,,,Introduction to Programming,,Introduction to Programming,,,
-Thursday,Operating Systems Lab,Operating Systems Lab,Operating Systems Lab,,Introduction to Programming Lab,,,,
-Thursday,,,,Lab,,Lab,,,
-Thursday,CS2311 (S4),CS2311 (S4),CS2311 (S4),CS1131 (S3),CS1131 (S3),CS1131 (S3),,,
-Thursday,Introduction to Database Systems,,,Introduction to Programming,,Introduction to Programming,,,
-Thursday,,Introduction to Database Systems Lab,Introduction to Database Systems Lab,,Introduction to Programming Lab,,,,
-Thursday,Lab,,,Lab,,Lab,,,
-Thursday,,,,CS1131 (S2),CS1131 (S2),CS1131 (S2),,,
-Thursday,,,,Introduction to Programming Lab,Introduction to Programming Lab,Introduction to Programming Lab,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-Friday,PHCS1013 (S4),PHCS1013 (S4),HMCS1002 (S4),CS2313 (S1),CS2313 (S1),,,,CS3613 (S3)
-Friday,Applied Physics,Applied Physics,Pakistan Studies,Introduction to Databse Systems,Introduction to Databse Systems,,,"Theory of Automata & FormalLanguage","Web Mining/InformationRetrieval"
-Friday,HMCS1013 (S3),HMCS1002 (S3),CS3773 (S1),MTCS3063 (S2),MTCS3063 (S2),,,CS2223 (S1),CS2223 (S1)
-Friday,English-I,Pakistan Studies,Computer Comm. and Networks,Probability and Statistics,Probability and Statistics,,,Software Engineering-I,Software Engineering-I
-Friday,MTCS1013 (S2),HMCS1013 (S2),HMCS1013 (S2),HMCS2033 (S3),CS2313 (S3),,CS3613 (S2),CS3613 (S2),CS3613 (S1)
-Friday,Calculus and Analytical Geometry,English-I,English-I,Technical Report Writing,Introduction to Databse Systems,"Theory of Automata &Formal Language","Theory of Automata & FormalLanguage","Theory of Automata & FormalLanguage",
-Friday,HMCS1002 (S1),MTCS1013 (S1),MTCS1013 (S1),CS4813 (S3),CS4813 (S3),HMCS2013 (S2),CS4613 (S2),HMCS2013 (S3),
-Friday,Pakistan Studies,Calculus and Analytical Geometry,Calculus and Analytical Geometry,Artifical Intelligence,Artifical Intelligence,"Professional Ethics and legalIssues",Machine Learning,"Professional Ethics and legalIssues",
-Friday,CS2053 (S2),MTCS1033 (S2),MTCS1033 (S2),MTCS1053 (S2),MTCS1053 (S2),CS3283 (S1),,,
-Friday,Discrete Structures,Linear Algebra,Linear Algebra,Multi-variate Calculus,Multi-variate Calculus,Graph Algorithms,,,
-Friday,MTCS1033 (S1),CS2053 (S1),CS2053 (S1),CS3283 (S2),CS3283 (S2),CS3283 (S3),CS4613 (S1),CS4613 (S1),
-Friday,Linear Algebra,Discrete Structures,Discrete Structures,Graph Algorithms,Graph Algorithms,Graph Algorithms,Machine Learning,Machine Learning,
-Friday,,,CS3413 (S2),ACCS3003 (S2),MGCS4003 (S1),CS4813 (S2),HMCS2013 (S1),HMCS2013 (S1),
-Friday,,,Operating Systems,Financial Accounting,Entrepreneurship and Innovation,Artifical Intelligence,"Professional Ethics and LegalIssues","Professional Ethics and LegalIssues",
-Friday,,CS3213 (S3),CS3213 (S3),CS3273 (S3),CS3213 (S2),,,,
-Friday,,Object Oriented  Analysis and Design,Object Oriented  Analysis and Design,Human Computer Interaction,"Object Oriented  Analysis andDesign",,,,
-Friday,,,MGCS4003 (S2),CS3273 (S2),CS3273 (S2),CS2313 (S2),,,
-Friday,,,Entrepreneurship and Innovation,Human Computer Interaction,Human Computer Interaction,"Introduction to DatabaseSystems",,,
-Friday,,,,CS3713 (S3),CS3713 (S3),,,,
-Friday,,,,"Introduction to InformationSecurity and Forensics","Introduction to InformationSecurity and Forensics",,,,
-Friday,,,,,,CS4811 (S3),CS4811 (S3),CS4811 (S3),
-Friday,,,,,Artifical Intelligence Lab,Artifical Intelligence Lab,Artifical Intelligence Lab,,
-Friday,,,,,CS2511 (S2),CS2511 (S2),CS2511 (S2),,
-Friday,,,,Digital Logic Design,Digital Logic Design,Digital Logic Design,,,
