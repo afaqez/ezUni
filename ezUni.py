@@ -48,10 +48,8 @@ def get_credit_hours(courses, credit_hours):
 def main():
 
     try:
-        # tb.convert_into("timetable.pdf", "timetable.csv", output_format="csv", pages='all')
-        st.write("Hello")
-        df = pd.read_excel('timetable.xlsx') 
-        st.write("Hello")
+        df = pd.read_excel('timetable.xlsx')
+
         monday_schedule = df[df['Day'] == 'Monday']
         tuesday_schedule = df[df['Day'] == 'Tuesday']
         wednesday_schedule = df[df['Day'] == 'Wednesday']
