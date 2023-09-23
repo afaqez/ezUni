@@ -1,5 +1,5 @@
 import re
-import tabula as tb
+import tabula-py as tb
 import pandas as pd
 import streamlit as st
 
