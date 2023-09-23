@@ -48,17 +48,8 @@ def get_credit_hours(courses, credit_hours):
 def main():
 
     try:
-        # tb.convert_into("timetable.pdf", "timetable.csv", output_format="csv", pages='all')
-        st.write("Hello")
-        try:
-            df = pd.read_excel('timetable.xlsx')
-        except FileNotFoundError as e:
-            st.write("No file")
-            print(f"Error: File not found - {e}")
-        except Exception as e:
-            print(f"Error: {e}")
+        df = pd.read_excel('timetable.xlsx')
 
-        st.write("Hello")
         monday_schedule = df[df['Day'] == 'Monday']
         tuesday_schedule = df[df['Day'] == 'Tuesday']
         wednesday_schedule = df[df['Day'] == 'Wednesday']
