@@ -53,6 +53,7 @@ def main():
         try:
             df = pd.read_excel('timetable.xlsx')
         except FileNotFoundError as e:
+            st.write("No file")
             print(f"Error: File not found - {e}")
         except Exception as e:
             print(f"Error: {e}")
